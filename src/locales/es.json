@@ -1,0 +1,34 @@
+{
+    "navbar": {
+      "logo": "Cinescope",
+      "home": "Inicio",
+      "searchPlaceholder": "Buscar películas...",
+      "searchButton": "Buscar"
+    },
+    "searchResults": {
+      "title": "Resultados de búsqueda para <strong>{{ query }}</strong>",
+      "defaultTitle": "Resultados de búsqueda",
+      "loading": "Cargando...",
+      "error": "Error al realizar la búsqueda.",
+      "noResults": "No se encontraron resultados para tu búsqueda.",
+      "loadMore": "Cargar Más"
+    },
+    "peliculasPopulares": {
+      "title": "Películas Populares",
+      "loading": "Cargando...",
+      "error": "Error al cargar películas populares."
+    },
+    "detallePelicula": {
+      "backButton": "← Volver",
+      "genres": "Géneros",
+      "releaseDate": "Fecha de lanzamiento",
+      "runtime": "Duración",
+      "rating": "Calificación",
+      "productionCompanies": "Compañías de producción",
+      "languages": "Idiomas",
+      "synopsis": "Sinopsis",
+      "loading": "Cargando...",
+      "error": "Error al cargar los detalles de la película."
+    }
+  }
+  
